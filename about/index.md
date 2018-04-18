@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Jiyoung Yoon
+tags: [about, Jiyoung Yoon]
+date: 2018-04-18
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+
+<center>Passionate Beginner Developer</center>
 
 ## Features
 * Minimal, you can focus on your content
@@ -30,8 +30,6 @@ comments: false
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
+## Contact
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+<i class="fa fa-fw fa-envelope-square"></i>y_3158@naver.com
