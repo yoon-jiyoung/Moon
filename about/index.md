@@ -48,13 +48,9 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Education
 
-##### <i class="fa fa-graduation-cap"></i>Java&Python Based Application SW Developer Training Course
+<i class="fa fa-graduation-cap"></i><h4>Java&Python Based Application SW Developer Training Course</h4> Ssangyong Institute of System Technology
 
-Ssangyong Institute of System Technology
-
-##### <i class="fa fa-graduation-cap"></i>BA in Child Welfare and Social Psychology
-
-Sookmyung Women's University
+<i class="fa fa-graduation-cap"></i><h4>BA in Child Welfare and Social Psychology</h4> Sookmyung Women's University
 
 ## Contact
 
