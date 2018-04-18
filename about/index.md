@@ -8,7 +8,7 @@ comments: false
 
 <center>Passionate Beginner Developer</center>
 
-## Features
+## About Me
 * Minimal, you can focus on your content
 * Responsive
 * Disqus integration
@@ -29,6 +29,32 @@ comments: false
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+
+
+
+## Skills
+
+
+
+## Languages
+
+
+
+## Work Experience
+
+
+
+
+
+## Education
+
+##### <i class="fa fa-graduation-cap"></i>Java&Python Based Application SW Developer Training Course
+
+Ssangyong Institute of System Technology
+
+##### <i class="fa fa-graduation-cap"></i>BA in Child Welfare and Social Psychology
+
+Sookmyung Women's University
 
 ## Contact
 
