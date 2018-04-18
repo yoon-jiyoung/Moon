@@ -145,7 +145,7 @@ public class WelcomeController extends AbstractController{
 
 ### hello.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -198,7 +198,7 @@ $(document).ready(function(){
 
 ### welcome.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -362,7 +362,7 @@ public class WelcomeController extends AbstractController{
 
 ### hello.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -415,7 +415,7 @@ $(document).ready(function(){
 
 ### welcome.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -586,7 +586,7 @@ public class WelcomeController extends AbstractController{
 
 ### hello.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -639,7 +639,7 @@ $(document).ready(function(){
 
 ### welcome.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -785,7 +785,7 @@ public class SampleController {
 
 ### hello.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
@@ -841,7 +841,7 @@ $(document).ready(function(){
 
 ### welcome.jsp
 
-```html
+```jsp
 <%@ page language="java" contentType="text/html; charset=UTF-8"  pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
 <%-- jstl-1.2.jar 파일 필요 --%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
